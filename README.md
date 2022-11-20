@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**local-bot/local-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**local-bot/local-bot** I'm using this ✨ _repository_ ✨ for basic learning content
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Flask, Ansible, OpenCV ...
