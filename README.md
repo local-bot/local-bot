@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there :rocket: :artificial_satellite: :robot:
 
-**local-bot** I'm using this _repository_ for basic learning content
+:robot: **local-bot** :robot:
+
+I'm using this _repository_ for basic learning content
 
 - 🌱 I’m currently learning Python, Flask, Ansible, OpenCV ...
