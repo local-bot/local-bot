@@ -12,5 +12,9 @@
   - Ansible
   - Docker
   - Kubernetes
+- Bash scripting
+  - sed
+  - awk
+  - egrep
 - Ethical Hacking
   - https://tryhackme.com/p/kiwifruit
