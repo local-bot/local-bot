@@ -16,5 +16,7 @@
   - sed
   - awk
   - egrep
+- IoT
+  - Arduino & MicroPython
 - Ethical Hacking
   - https://tryhackme.com/p/kiwifruit
