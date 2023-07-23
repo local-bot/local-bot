@@ -8,8 +8,9 @@
   - Django
 - PHP
   - Laravel
-- Container orchestration
+- Containers & Orchestration
   - Ansible
+  - Docker
   - Kubernetes
-- Ethical hacking
+- Ethical Hacking
   - https://tryhackme.com/p/kiwifruit
