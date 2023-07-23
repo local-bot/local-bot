@@ -6,17 +6,22 @@
   - OpenCV
   - Flask
   - Django
+   
 - PHP
   - Laravel
+
 - Containers & Orchestration
   - Ansible
   - Docker
   - Kubernetes
+
 - Bash scripting
   - sed
   - awk
   - egrep
+
 - IoT
   - Arduino & MicroPython
+
 - Ethical Hacking
   - https://tryhackme.com/p/kiwifruit
