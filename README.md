@@ -20,4 +20,4 @@
   - Arduino & MicroPython
 - Ethical Hacking
   - https://tryhackme.com/p/kiwifruit
-    <script src="https://tryhackme.com/badge/77973"></script>
+  -  <img src="https://tryhackme-badges.s3.amazonaws.com/kiwifruit.png" alt="TryHackMe">
