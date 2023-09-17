@@ -4,7 +4,7 @@
 
 - **Python**
   - [OpenCV](https://github.com/local-bot/python_basics/tree/master/python_libraries_basics)
-  - [Flask](https://github.com/your-username/flask-repo](https://github.com/local-bot/python_basics/tree/master/python_libraries_basics))
+  - [Flask](https://github.com/local-bot/python_basics/tree/master/python_libraries_basics)
   - [Django](https://github.com/local-bot/python_basics/tree/master/python_libraries_basics)
 
 - **PHP**
