@@ -2,23 +2,30 @@
 
 🌱 I’m currently learning:
 
-- **Python**
-  - [OpenCV](https://github.com/local-bot/python_basics/tree/master/python_libraries_basics)
-  - [Flask](https://github.com/local-bot/python_basics/tree/master/python_libraries_basics)
-  - [Django](https://github.com/local-bot/python_basics/tree/master/python_libraries_basics)
+- **[Python](https://github.com/local-bot/python_basics/tree/master/python_libraries_basics)**
+  - OpenCV
+  - Flask
+  - Django
 
 - **PHP**
-  - [Laravel]
+  - Laravel
 
-- **Containers & Orchestration**
-  - [Ansible](https://github.com/local-bot/container_virtualization)
-  - [Docker](https://github.com/local-bot/container_virtualization)
-  - [Kubernetes](https://github.com/local-bot/container_virtualization)
+- **[Containers & Orchestration](https://github.com/local-bot/container_virtualization)**
+  - Ansible
+  - Docker
+  - Kubernetes
 
-- **Bash Scripting**
-  - [sed](https://github.com/local-bot/linux_basics)
-  - [awk](https://github.com/local-bot/linux_basics)
-  - [egrep](https://github.com/local-bot/linux_basics)
+- **[Linux & Bash](https://github.com/local-bot/linux_basics)**
+  - sed
+  - awk
+  - egrep
+  - rsync
+  - xargs
+  - lvm
+  - daemons/services
+  - curl/wget
+  - fstab/mounts
+  - openssl
 
-- **IoT**
-  - [Arduino & MicroPython](https://github.com/local-bot/iot_basics)
+- **[IoT](https://github.com/local-bot/iot_basics)**
+  - Arduino & MicroPython
