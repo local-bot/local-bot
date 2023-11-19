@@ -7,9 +7,6 @@
   - Flask
   - Django
 
-- **PHP**
-  - Laravel
-
 - **[Containers & Orchestration](https://github.com/local-bot/container_virtualization)**
   - Ansible
   - Docker
