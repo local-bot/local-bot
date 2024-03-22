@@ -7,11 +7,6 @@
   - Flask
   - Django
 
-- **[Containers & Orchestration](https://github.com/local-bot/container_virtualization)**
-  - Ansible
-  - Docker
-  - Kubernetes
-
 - **[Linux & Bash](https://github.com/local-bot/linux_basics)**
   - sed
   - awk
@@ -23,6 +18,13 @@
   - curl/wget
   - fstab/mounts
   - openssl
+
+- **[Docker & Kubernetes](https://github.com/local-bot/docker_and_kubernetes)**
+  - Docker
+  - Kubernetes
+
+- **[Ansible](https://github.com/local-bot/ansible_playbooks)**
+  - ansible playbooks
 
 - **[IoT](https://github.com/local-bot/iot_basics)**
   - Arduino & MicroPython
